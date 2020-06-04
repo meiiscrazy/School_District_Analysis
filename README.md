@@ -16,6 +16,7 @@ School District Analysis
 - Wilson High School
 - Pena High School
 - Wright High School 
+
 By replacing Thomas High Schools' 9th grade math and reading scores with NAN their scores drop, in the previous exercise Thomas High School was the 2nd best high school but now they are the 7th best high school. 
 # Spending Summary
 Our analysis shows that schools that spend <$584 (per student) have the highest % passing math and reading scores. Schools that spend $645-$675 (per student) have the worst % passing math and reading scores. With Thomas High School data replaced, the only change is $630-$645 (per student) spending range. The % Passing Math and Reading scores drop by around 10 percentage points. 
